@@ -1,0 +1,39 @@
+body{
+	color: gray;
+}
+
+h1{
+	color: black;
+	font-style: arial;
+	text-align: center;
+	margin-top: 0px;
+}
+
+h2{
+	color: blue;
+	text-align: center;
+	margin-top: 0px;
+}
+
+p{
+	text-align: center;
+	margin-top: 125px;
+}
+
+h3{
+	background-color: black;
+	color: white;
+	font-size: 35px;
+}
+
+a{
+	color: gray;
+}
+
+img{
+	width: 340px;
+	height: 180px;
+	margin-top: 115px;
+	margin-left: 508px;
+	margin-right: 300px;
+}
